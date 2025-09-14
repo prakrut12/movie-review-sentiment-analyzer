@@ -23,7 +23,8 @@ Output includes:
 
 Simple and interactive Streamlit web app.
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:
 
 Python – backend logic
 
@@ -32,6 +33,7 @@ Streamlit – interactive UI
 Google Gemini API – advanced NLP (sentiment analysis)
 
 Prompt Engineering – structured prompts for detailed output
+
 
 📂 Project Structure
 sentimental_analysis/
