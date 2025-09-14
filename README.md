@@ -1,4 +1,5 @@
-<img width="835" height="720" alt="image" src="https://github.com/user-attachments/assets/f085f5d3-6d5b-42ae-9c28-cd87e98f24cc" 
+<img width="922" height="723" alt="image" src="https://github.com/user-attachments/assets/d0055365-56a4-48ae-8253-09a7cf3e2ef3" />
+
 
 An interactive NLP web application that analyzes the sentiment of movie reviews using Google Gemini API.
 The app classifies reviews as Positive, Negative, or Neutral, provides a confidence score, a detailed explanation, and extracts key evidence phrases.
